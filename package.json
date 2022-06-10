@@ -1,0 +1,22 @@
+{
+  "name": "growl-package",
+  "version": "1.0.0",
+  "description": "show the message and disable it automatically",
+  "main": "growl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffLiusGitHub/growl.git"
+  },
+  "keywords": [
+    "growl"
+  ],
+  "author": "Jeff Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffLiusGitHub/growl/issues"
+  },
+  "homepage": "https://github.com/JeffLiusGitHub/growl#readme"
+}
